@@ -1,0 +1,292 @@
+{
+  "categories": [
+    {
+      "menu_id": 1,
+      "name": "Fruits and Vegetables",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 2,
+      "name": "Foodgrains, Oil & Masala",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 3,
+      "name": "Bakery, Cakes & Dairy",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 4,
+      "name": "Beverages",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 5,
+      "name": "Snacks & Branded Foods",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 6,
+      "name": "Beauty & Hygiene",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 7,
+      "name": "Cleaning & Household",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 8,
+      "name": "Kitchen, Garden & Pets",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 9,
+      "name": "Eggs, Meat & Fish",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 10,
+      "name": "Gourmet & World Food",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 11,
+      "name": "Baby Care",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    },
+    {
+      "menu_id": 12,
+      "name": "View All",
+      "submenu": [
+        { "title": "Fresh Vegetables" },
+        { "title": "Herbs and Seasonings" },
+        { "title": "Fresh Fruits" },
+        { "title": "Organic Fruits & Vegetables" },
+        { "title": "Cuts & Sprouts" },
+        { "title": "Exotic Fruits & Veggies" },
+        { "title": "Flower Bouquets" },
+        { "title": "Bunches" }
+      ],
+      "second_submenu": [
+        { "title": "Potato,Onion & Tomato" },
+        { "title": "Cucumber & Capsicum" },
+        { "title": "Leafy Vegetables" },
+        { "title": "Root Vegetables" },
+        { "title": "Beans,Brinjals & Okra" },
+        { "title": "Cabbage & Cauliflower" },
+        { "title": "Groud,Pumpkin,Drumstick" },
+        { "title": "Specialty" }
+      ]
+    }
+  ]
+}
